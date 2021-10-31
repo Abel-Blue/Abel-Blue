@@ -35,6 +35,8 @@
 
 [<img align="left" alt="David's | LinkedIn" width="22px" src="https://www.clipartmax.com/png/middle/169-1696957_instagram-icon-instagram-icon-svg-white.png" />][Instagram]
 
+[<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://www.clipartmax.com/png/middle/169-1696957_instagram-icon-instagram-icon-svg-white.png" alt="Abel Instagram" style="width:42px;height:42px;"></a>][Instagram]
+
 
 
 <!--
