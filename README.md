@@ -28,16 +28,12 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github.com/Abel-Blue/github-stats/blob/master/generated/languages.svg)
-
-![Abel's GitHub Stats](https://github.com/Abel-Blue/github-stats/blob/master/generated/overview.svg)
-
 ### Connect with me:
 
 
-[<img align="left" alt="David's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Abel's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="David's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="David's | LinkedIn" width="22px" src="https://www.clipartmax.com/png/middle/169-1696957_instagram-icon-instagram-icon-svg-white.png" />][Instagram]
 
 
 
