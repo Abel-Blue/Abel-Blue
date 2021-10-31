@@ -25,7 +25,7 @@
 
 <a href="https://www.linkedin.com/in/abel-mitiku-2b95bb215/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Abel Linkedin" style="width:42px;height:42px;"></a>
 
-<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://www.transparentpng.com/thumb/instagram-logo-icon/yVnfo1-instagram-logo-photo-icon.png" alt="Abel Instagram" style="width:42px;height:42px;"></a>
+<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Instagram_font_awesome.svg/1200px-Instagram_font_awesome.svg.png" alt="Abel Instagram" style="width:42px;height:42px;"></a>
 
 <!--
 **Abel-Blue/Abel-Blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
