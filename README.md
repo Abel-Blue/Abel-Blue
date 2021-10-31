@@ -8,25 +8,18 @@
 
 - 📖 Studied at **Addis Ababa University** for my **Bachelors in Electrical and Computer Engineering**
 - 🌱 **Completed / Current Courses**: 
+
   - Data science
   - Deep learning mainly Reinforcement Learning MIT Course
   - Reinforcement Learning in NLP
   - Knowledge Based Artifical Intelligence
   - Machine Learning for Trading
   
-#### Location
+#### Location and e-mail
 
-- 🏔 Livng in Addis Ababa, Ethiopia
+- 🏔 Living in Addis Ababa, Ethiopia
 
-<!--
-**Davidelvis/Davidelvos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 abelmitikugetnet2020@gmail.com
 
 ### Connect with me:
 
