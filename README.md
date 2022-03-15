@@ -2,42 +2,55 @@
 
 ## You've stumbled upon Abel Mitiku's GitHub profile!
 
+<br />
+
+### About
+
+I am Computer Engineer that thrives on new knowledge and helping others. I'm enthusiastic about growing and gaining new skills on my Computer/Software Engineering journey. I value learning from others, genuine connections, and hearing about other people's passions and how I can possibly help. I also believe in getting things done but smiling, laughing, and even twirling along the way.
+
+I am an enthusiast of technology and nature! I am a big believer in the idea that nature heals everything.
+
+What software part are you working on? What are you doing to develop your software and computer career? If we are on the same journey let me know.
+
 ### Currently, I am...
+
+- 🔭 working on data science and machine learing projects
+- 🌱 learning NLP, deep learing ...
+- 👯 looking to collaborate on different aspects data engineering projects
 
 #### Education
 
-- 📖 Studied at **Addis Ababa University** for my **Bachelors in Electrical and Computer Engineering**
+- 📖 Studied at **Addis Ababa University** for my **Bachelors in Computer and Electrical Engineering**
+
 - 🌱 **Completed / Current Courses**: 
 
-  - Data science
+  - Data science udemy
+  - Google Analytics
   - Deep learning mainly Reinforcement Learning MIT Course
   - Reinforcement Learning in NLP
   - Knowledge Based Artifical Intelligence
-  - Machine Learning for Trading
   
 #### Location and e-mail
 
 - 🏔 Living in Addis Ababa, Ethiopia
 
-- 📧 abelmitikugetnet2020@gmail.com
+  📬 abelmitikugetnet2020@gmail.com or
+  📬 abelmgetnet@gmail.com 
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel-Blue&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel-Blue&layout=compact)](https://github.com/Maelaf/github-readme-stats)
+
+<br />
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/abel-mitiku-2b95bb215/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Abel Linkedin" style="width:42px;height:42px;"></a>
+<br />
 
-<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Instagram_font_awesome.svg/1200px-Instagram_font_awesome.svg.png" alt="Abel Instagram" style="width:43px;height:43px;"></a>
+<a href="https://www.linkedin.com/in/abel-mitiku-2b95bb215/"><img src="https://img.icons8.com/color/344/linkedin.png" alt="Abel Linkedin" style="width:42px;height:42px;"></a>    
+<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Abel Instagram" style="width:43px;height:43px;"></a>          
+<a href="https://medium.com/@Abel-Blue"><img src="https://img.icons8.com/color-glass/344/medium-logo.png" alt="Abel Instagram" style="width:43px;height:43px;"></a>
 
-<!--
-**Abel-Blue/Abel-Blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
