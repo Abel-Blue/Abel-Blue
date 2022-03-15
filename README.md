@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-![Alt Text](https://static.vecteezy.com/system/resources/thumbnails/003/535/350/original/welcome-greetings-animated-text-design-green-screen-background-animation-welcome-animation-for-welcome-shop-discount-sale-decoration-joy-style-free-video.jpg)
+![Welcome](https://static.vecteezy.com/system/resources/thumbnails/003/535/350/original/welcome-greetings-animated-text-design-green-screen-background-animation-welcome-animation-for-welcome-shop-discount-sale-decoration-joy-style-free-video.jpg)
 
 ### About
 
@@ -10,7 +10,7 @@ I am an enthusiast of technology and nature! I am a big believer in the idea tha
 
 What software part are you working on? What are you doing to develop your software and computer career? If we are on the same journey let me know.
 
-### Currently, I am...
+### Currently, I am ...
 
 - 🔭 working on data science and machine learing projects
 - 🌱 learning NLP, deep learing ...
@@ -36,15 +36,15 @@ What software part are you working on? What are you doing to develop your softwa
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel-Blue&show_icons=true&theme=radical)
+![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel-Blue&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel-Blue&layout=compact)](https://github.com/Abel-Blue/github-readme-stats)
 
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/abel-mitiku-2b95bb215/"><img src="https://img.icons8.com/color/344/linkedin.png" alt="Abel Linkedin" style="width:42px;height:42px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://medium.com/@Abel-Blue"><img src="https://img.icons8.com/color-glass/344/medium-logo.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://www.linkedin.com/in/abel-mitiku-2b95bb215/" target = "_blank"><img src="https://img.icons8.com/color/344/linkedin.png" alt="Abel Linkedin" style="width:42px;height:42px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.instagram.com/abelmitiku.c/" target = "_blank"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://medium.com/@Abel-Blue" target = "_blank"><img src="https://img.icons8.com/color-glass/344/medium-logo.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <br />
 
 
