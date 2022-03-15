@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-## You've stumbled upon Abel Mitiku's GitHub profile!
+![Alt Text](https://image.shutterstock.com/image-photo/welcome-text-on-green-grungy-260nw-1832235508.jpg)
 
 ### About
 
@@ -32,21 +32,27 @@ What software part are you working on? What are you doing to develop your softwa
 
 - 🏔 Living in Addis Ababa, Ethiopia
 
-  📬 abelmitikugetnet2020@gmail.com or 📬 abelmgetnet@gmail.com 
+  📬 abelmitikugetnet2020@gmail.com or 📬 abelmgetnet@gmail.com
+  
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel-Blue&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel-Blue&layout=compact)](https://github.com/Abel-Blue/github-readme-stats)
-<br />
-## Connect with me:
 
+<br />
+
+## Connect with me
+<br />
 
 <a href="https://www.linkedin.com/in/abel-mitiku-2b95bb215/"><img src="https://img.icons8.com/color/344/linkedin.png" alt="Abel Linkedin" style="width:42px;height:42px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       
+
+<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+
 <a href="https://medium.com/@Abel-Blue"><img src="https://img.icons8.com/color-glass/344/medium-logo.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
 
----
+
+
 
 
