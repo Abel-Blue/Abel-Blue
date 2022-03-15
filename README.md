@@ -1,8 +1,8 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-![Welcome](https://static.vecteezy.com/system/resources/thumbnails/003/535/350/original/welcome-greetings-animated-text-design-green-screen-background-animation-welcome-animation-for-welcome-shop-discount-sale-decoration-joy-style-free-video.jpg)
+![Welcome](https://c.tenor.com/Z25t-Dm102AAAAAC/welcome.gif)
 
-### About
+## About Myself
 
 I am a Computer Engineer that thrives on new knowledge and helping others. I'm enthusiastic about growing and gaining new skills on my Computer/Software Engineering journey. I value learning from others, genuine connections, and hearing about other people's passions and how I can possibly help. I also believe in getting things done but smiling, laughing, and even twirling along the way.
 
@@ -14,7 +14,7 @@ What software part are you working on? What are you doing to develop your softwa
 
 - 🔭 working on data science and machine learing projects
 - 🌱 learning NLP, deep learing ...
-- 👯 looking to collaborate on different aspects data engineering projects
+- 👯 looking to collaborate on different aspects of data engineering projects
 
 #### Education
 
