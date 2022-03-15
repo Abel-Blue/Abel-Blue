@@ -42,9 +42,9 @@ What software part are you working on? What are you doing to develop your softwa
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/abel-mitiku-2b95bb215/"><img src="https://img.icons8.com/color/344/linkedin.png" alt="Abel Linkedin" style="width:42px;height:42px;"></a> &nbsp;
-<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp;
-<a href="https://medium.com/@Abel-Blue"><img src="https://img.icons8.com/color-glass/344/medium-logo.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp;
+<a href="https://www.linkedin.com/in/abel-mitiku-2b95bb215/"><img src="https://img.icons8.com/color/344/linkedin.png" alt="Abel Linkedin" style="width:42px;height:42px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.instagram.com/abelmitiku.c/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://medium.com/@Abel-Blue"><img src="https://img.icons8.com/color-glass/344/medium-logo.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <br />
 
 
