@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-![Welcome](https://c.tenor.com/Z25t-Dm102AAAAAC/welcome.gif)
+![Welcome](https://i.gifer.com/origin/b3/b3a352d0e354188690534f6e18c8b990.gif)
 
 ## About Myself
 
