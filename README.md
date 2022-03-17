@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-![Welcome](https://i.gifer.com/origin/b3/b3a352d0e354188690534f6e18c8b990.gif)
+![Welcome](https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif)
 
 ## About Myself
 
