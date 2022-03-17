@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-![Welcome](https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif)
+![Welcome](https://thepowerpointblog.com/wp-content/uploads/2021/06/Handwave.gif)
 
 ## About Myself
 
