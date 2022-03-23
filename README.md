@@ -1,5 +1,5 @@
 # Hello!
-![Welcome](https://thumbs.gfycat.com/EasyFlusteredAmericanbobtail-max-1mb.gif)
+![Welcome](https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif)
 
 ## About Myself
 
