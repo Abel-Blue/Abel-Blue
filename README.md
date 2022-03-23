@@ -1,4 +1,5 @@
-![Welcome](https://forums-images.oneplus.net/attachments/1331/1331927-715da02c3e1406d704dc574bb58711b9.gif)
+# Hello!
+![Welcome](https://thumbs.gfycat.com/EasyFlusteredAmericanbobtail-max-1mb.gif)
 
 ## About Myself
 
