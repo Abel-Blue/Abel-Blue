@@ -1,22 +1,11 @@
-# Hello! 👋
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Welcome](https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif)
-
-## About Myself
+## Hello! 👋, I am Abel Blue Mitiku
+&nbsp;
 
 I am a Computer Engineer that thrives on new knowledge and helping others. I'm enthusiastic about growing and gaining new skills on my Computer/Software Engineering journey. I value learning from others, genuine connections, and hearing about other people's passions and how I can possibly help. I also believe in getting things done but smiling, laughing, and even twirling along the way.
 
 I am an enthusiast of technology and nature! I am a big believer in the idea that nature heals everything.
 
 What software part are you working on? What are you doing to develop your software and computer career? If we are on the same journey let me know.
-
-### Currently, I am ...
-
-- 🔭 working on data science and machine learing projects
-- 🌱 learning NLP, deep learing ...
-- 👯 looking to collaborate on different aspects of data engineering projects
 
 #### Education
 
@@ -29,17 +18,12 @@ What software part are you working on? What are you doing to develop your softwa
   - Deep learning mainly Reinforcement Learning MIT Course
   - Reinforcement Learning in NLP
   - Knowledge Based Artifical Intelligence
-  
-#### Location and e-mail
 
-- 🏔 Living in Addis Ababa, Ethiopia
+![Abel's github stats](https://github-readme-stats.vercel.app/api?username=Abel-Blue&count_private=false&show_icons=true&theme=synthwave&hide_rank=false&include_all_commits=true)
 
-  📬 abelmitikugetnet2020@gmail.com or 📬 abelmgetnet@gmail.com
-
-<br />
-
-![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel-Blue&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel-Blue&layout=compact)](https://github.com/Abel-Blue/github-readme-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Abel-Blue)
 
 
 ## Connect with me
