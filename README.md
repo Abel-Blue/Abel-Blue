@@ -1,9 +1,7 @@
 ### Hi there 👋, I am Abel Blue Mitiku
 
 I am a Computer Engineer that thrives on new knowledge and helping others. I'm enthusiastic about growing and gaining new skills on my Computer/Software Engineering journey. I value learning from others, genuine connections, and hearing about other people's passions and how I can possibly help. I also believe in getting things done but smiling, laughing, and even twirling along the way.
-
-### Education
-
+#### Education
 - 📖 Studied at **Addis Ababa University** for my **Bachelors in Computer and Electrical Engineering**
 - 🌱 **Completed / Current Courses**: 
   - Data science udemy
@@ -19,7 +17,7 @@ I am a Computer Engineer that thrives on new knowledge and helping others. I'm e
 ![trophy](https://github-profile-trophy.vercel.app/?username=Abel-Blue)
 
 
-## Connect with me
+### Connect with me
 
 <a href="https://www.linkedin.com/in/abel-mitiku-2b95bb215/" target="_blank"><img src="https://img.icons8.com/color/344/linkedin.png" alt="Abel Linkedin" style="width:42px;height:42px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.instagram.com/abelmitiku.c/" target="_blank"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Abel Instagram" style="width:43px;height:43px;"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
