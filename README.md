@@ -1,18 +1,11 @@
-## Hello! 👋, I am Abel Blue Mitiku
-&nbsp;
+### Hi there 👋, I am Abel Blue Mitiku
 
 I am a Computer Engineer that thrives on new knowledge and helping others. I'm enthusiastic about growing and gaining new skills on my Computer/Software Engineering journey. I value learning from others, genuine connections, and hearing about other people's passions and how I can possibly help. I also believe in getting things done but smiling, laughing, and even twirling along the way.
 
-I am an enthusiast of technology and nature! I am a big believer in the idea that nature heals everything.
-
-What software part are you working on? What are you doing to develop your software and computer career? If we are on the same journey let me know.
-
-#### Education
+### Education
 
 - 📖 Studied at **Addis Ababa University** for my **Bachelors in Computer and Electrical Engineering**
-
 - 🌱 **Completed / Current Courses**: 
-
   - Data science udemy
   - Google Analytics
   - Deep learning mainly Reinforcement Learning MIT Course
