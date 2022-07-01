@@ -11,14 +11,14 @@
 <!--  -->
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Abel-Blue&show_icons=true&hide_border=false&line_height=20&title_color=ff9fff&icon_color=1bffff&theme=synthwave&show_owner=true&include_all_commits=true&count_private=false&hide_rank=false"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Abel-Blue&show_icons=true&hide_border=false&line_height=20&title_color=ff9fff&icon_color=1bffff&theme=synthwave&show_owner=true&include_all_commits=true&count_private=true&hide_rank=false"/>
   
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
